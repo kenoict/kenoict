@@ -1,4 +1,6 @@
-- 👋 Hi, I’m mafabi kennedy
+ ## software engineer
+
+👋 Hi, I’m mafabi kennedy
 - 👀 I’m interested in .in tech..
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on .projects like websites and mobile apps..
