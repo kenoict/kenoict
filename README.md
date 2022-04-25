@@ -27,17 +27,17 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulagna-dutta-roy&show_icons=true&theme=radical)
+![ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenoict &show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulagna-dutta-roy&layout=compact&theme=radical)](https://github.com/kenoict/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenoict &layout=compact&theme=radical)](https://github.com/kenoict/github-readme-stats)
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sulagna-Dutta-Roy&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenoict &theme=dark)](https://git.io/streak-stats)
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sulagna-dutta-roy&theme=react-dark)](https://github.com/kenoict/github-readme-activity-graph)
+[![ken's github activity graph](https://activity-graph.herokuapp.com/graph?username=kenoict &theme=react-dark)](https://github.com/kenoict/github-readme-activity-graph)
 
 
 
